@@ -1,0 +1,1 @@
+Solutions to the Intermediate Front End Development Project on FCC.

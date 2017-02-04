@@ -1,0 +1,1 @@
+Solutions to the Basic Algorithm challenges on FCC.

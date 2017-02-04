@@ -1,0 +1,1 @@
+Solutions to the Intermediate Algorithm challenges on FCC.
