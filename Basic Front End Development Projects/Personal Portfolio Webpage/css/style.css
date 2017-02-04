@@ -1,0 +1,112 @@
+body {
+  background-color: white;
+  font-family: Lobster;
+  color: white;
+}
+
+h1 {
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5.0em;
+}
+
+p {
+  padding-top: 5%;
+}
+
+.nav-pills {
+  font-size: 1.7em;
+  background-color: black;
+  margin-bottom: 10%;
+}
+
+.me {
+  background-color: black;
+  opacity: .8;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.btnList {
+  margin: 1%;
+}
+
+.btn-default {
+  background-color: black;
+  border-color: black;
+  color: #337ab7;
+  text-shadow: none;
+  font-size: 1.7em;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer p {
+  font-size: 15px;
+  color: white;
+}
+
+#twitterIcon {
+  color: rgb(0, 172, 237);
+}
+
+#linkedinIcon {
+  color: rgb(0, 127, 178);
+}
+
+#githubIcon {
+  color: rgb(102, 43, 129);
+}
+
+#picture {
+  height: 400;
+  width: 400;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+}
+
+.pageOne {
+  background-image: url("https://images3.alphacoders.com/555/555568.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  padding: 5%;
+}
+
+.pageTwo {
+  color: black;
+  /* background-image: url("https://s-media-cache-ak0.pinimg.com/originals/08/2f/92/082f92cfa8e75bdbf609f2d786d746ed.jpg"); */
+  background-color: rgba(2, 160, 249, 0.71);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pageThree {
+  color: black;
+  /* background-image: url("http://i.imgur.com/R7yvwBg.jpg"); */
+  background-color: rgb(223, 226, 219);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pageFour {
+  color: black;
+  /* background-image: url("http://67.media.tumblr.com/e4ee1854e70b2be030ec8b9c6c2fd824/tumblr_nx4tii5EhP1t637e5o4_500.jpg"); */
+  background-color: rgb(252, 243, 231);
+  background-size: cover;
+  height: 800px;
+  padding: 5%;
+}
+
+.paddingTop {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
