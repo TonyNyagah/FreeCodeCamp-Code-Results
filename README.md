@@ -1,2 +1,2 @@
 # FreeCodeCamp-Code-Results
-Code from FCC
+Code for FCC challenges.
