@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto';
+    color: #fff;
+    background-color: #161616;
+}
+
+.status p {
+    font-size: 1.8em;
+    text-transform: capitalize;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+#temp {
+    cursor: pointer;
+    color: grey;
+}
+
+#temp:hover {
+    color: grey;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+#icon {
+    color: #161616;
+    position: relative;
+    display: inline-block;
+    width: 12rem;
+    height: 10rem;
+}
